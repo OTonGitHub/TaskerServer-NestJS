@@ -12,6 +12,11 @@
   - `nest new .`
   - refer to _package.json_ and run `npm run start`
   - getting error on importing @nestjs/core, so ran `npm install` <- likely because cloned
+  - for hot-reload `npm run start:dev`
+- #### Code Generation
+  - `nest generate controlloer` -> `nest g co`
+  - use `--no-spec` to avoid testing file generation
+  -
 
 ## Git w/SSH
 
