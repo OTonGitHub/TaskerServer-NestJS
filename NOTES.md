@@ -16,7 +16,7 @@
 - #### Code Generation
   - `nest generate controlloer` -> `nest g co`
   - use `--no-spec` to avoid testing file generation
-  -
+  - `nest generate controller modules/abc` -> will generate controller in src/modules/abc
 
 ## Git w/SSH
 
@@ -49,7 +49,11 @@
   - `git push -u origin main`
 
 - ### Cloning Existing
+
   - `git clone https`
   - `git remote -v`
   - `git remote set-url origin git@OTonGithub:OTonGitHub/repo.git`
   - `git push`
+
+- ### Just Notes~
+  - Decided to name controllers pluran
