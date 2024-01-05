@@ -20,6 +20,9 @@
 
 ## Git w/SSH
 
+git checkout -- .
+ git clean -fd
+ 
 - creating ssh keys
 
   - `mkdir ~/.ssh && cd ~/.ssh`
