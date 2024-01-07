@@ -21,8 +21,8 @@
 ## Git w/SSH
 
 git checkout -- .
- git clean -fd
- 
+git clean -fd
+
 - creating ssh keys
 
   - `mkdir ~/.ssh && cd ~/.ssh`
@@ -43,7 +43,7 @@ git checkout -- .
 - ### New Repo
 
   - `git init`
-  - `git config user.name "OTonGitHub"
+  - `git config user.name "OTonGitHub"`
   - `git config user.email email@email.email`
   - `git add .`
   - `git commit -am "init commit"`
@@ -53,10 +53,11 @@ git checkout -- .
 
 - ### Cloning Existing
 
-  - `git clone https`
+  - `git clone <https_link>`
   - `git remote -v`
   - `git remote set-url origin git@OTonGithub:OTonGitHub/repo.git`
   - `git push`
 
-- ### Just Notes~
-  - Decided to name controllers pluran
+## Just Notes
+
+- Decided to name controllers pluran
