@@ -60,5 +60,5 @@ git clean -fd
 
 ## Just Notes
 
-- Decided to name controllers pluran
+- decided to name controllers plural
 - test
