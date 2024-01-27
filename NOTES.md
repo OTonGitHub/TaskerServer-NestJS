@@ -1,5 +1,8 @@
 ## Node/Nest/NVM Commands
 
+- Node Version v20.11.0
+- Nest 10.3.0
+
 - setup nvm https://github.com/coreybutler/nvm-windows/releases
 - install node
   - `nvm install lts`
